@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react_cocktails/static/css/main.e830c099.css",
-    "main.js": "/react_cocktails/static/js/main.b469d3e5.js",
+    "main.js": "/react_cocktails/static/js/main.069c55e2.js",
     "index.html": "/react_cocktails/index.html",
     "main.e830c099.css.map": "/react_cocktails/static/css/main.e830c099.css.map",
-    "main.b469d3e5.js.map": "/react_cocktails/static/js/main.b469d3e5.js.map"
+    "main.069c55e2.js.map": "/react_cocktails/static/js/main.069c55e2.js.map"
   },
   "entrypoints": [
     "static/css/main.e830c099.css",
-    "static/js/main.b469d3e5.js"
+    "static/js/main.069c55e2.js"
   ]
 }
